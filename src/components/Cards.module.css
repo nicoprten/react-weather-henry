@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+.notFound{
+    color: grey;
+    margin: 70px 0;
+}

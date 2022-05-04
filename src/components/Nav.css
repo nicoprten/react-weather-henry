@@ -1,0 +1,18 @@
+#nav{
+  background-color: rgb(50 50 50);
+  color: white;
+  display: flex;
+  padding: 10px;
+  justify-content: space-between;
+}
+#logoHenry {
+  margin-right: 20px;
+}
+.navLogo{
+  display: flex;
+  width: 300px;
+  align-items: center;
+}
+.navLogo h2{
+  font-size: 1.2em;
+}
